@@ -1,6 +1,7 @@
 # UdemyClone
 
-![alt text](https://github.com/RepakaRamateja/Amazonclone/blob/master/images/homepage.png)
+
+![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/home.png)
 
 
 Overview
