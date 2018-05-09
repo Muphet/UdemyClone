@@ -1,7 +1,7 @@
 # UdemyClone
 
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/home.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/home.png)
 
 
 Overview
@@ -24,62 +24,62 @@ When you click on login you  will be redirected to
 
 Facebook Authentication
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/fb.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/fb.png)
 
 If successful
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/after.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/after.png)
 
 
 Most popular Courses
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/popular.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/popular.png)
 
 
 After selecting a Course redirected to payment
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/card.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/card.png)
 
 Payment
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/payment.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/payment.png)
 
 
 List of Enrolled Courses
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/Enrolled.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/Enrolled.png)
 
 
 Becoming a Instructor
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/ins.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/ins.png)
 
 Creating a new Course
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/create.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/create.png)
 
 
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/next.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/next.png)
 
 
 Using Wistia to host videos
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/wistia.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/wistia.png)
 
 Multi user chat
 
 Instructor can chat with students
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/startchat.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/startchat.png)
 
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/main.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/main.png)
 
 
 Chatbot
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/bot.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/bot.png)
 
 
 
