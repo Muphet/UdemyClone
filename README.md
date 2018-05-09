@@ -16,7 +16,7 @@ to help choose such courses. We have also integrated a live support in our appli
 
 Technologies used:
 
-![alt text](https://github.com/RepakaRamateja/UdemyClone/tree/master/images/tech.png)
+![alt text](https://github.com/RepakaRamateja/UdemyClone/blob/master/images/tech.png)
 
 Features:
 
